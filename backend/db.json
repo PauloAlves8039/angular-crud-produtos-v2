@@ -19,6 +19,11 @@
       "name": "Produto de Teste",
       "price": 125.98,
       "id": 4
+    },
+    {
+      "name": "Calculadora Científica",
+      "price": "188.22",
+      "id": 5
     }
   ]
 }
