@@ -29,6 +29,11 @@
       "name": "Produto de Teste",
       "price": 125.98,
       "id": 6
+    },
+    {
+      "name": "Kindle 10a",
+      "price": "331.55",
+      "id": 7
     }
   ]
 }
