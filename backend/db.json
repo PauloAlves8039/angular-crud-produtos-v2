@@ -16,8 +16,8 @@
       "price": 5000.89
     },
     {
-      "name": "Produto de Teste",
-      "price": 125.98,
+      "name": "Lapiseira 9Mm Pentel",
+      "price": "22.99",
       "id": 4
     },
     {
@@ -26,8 +26,8 @@
       "id": 5
     },
     {
-      "name": "Produto de Teste",
-      "price": 125.98,
+      "name": "Caderno 96 Folhas",
+      "price": "17.99",
       "id": 6
     },
     {
