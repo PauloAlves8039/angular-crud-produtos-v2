@@ -34,6 +34,16 @@
       "name": "Kindle 10a",
       "price": "331.55",
       "id": 7
+    },
+    {
+      "name": "Smartphone LG K22",
+      "price": "659.77",
+      "id": 8
+    },
+    {
+      "name": "Tablet Samsung Galaxy A T290",
+      "price": "850.99",
+      "id": 9
     }
   ]
 }
