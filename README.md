@@ -16,6 +16,22 @@ Repositório de uma aplicação web para gerenciamento de registros de produtos 
 
 `git clone https://github.com/PauloAlves8039/angular-crud-produtos-v2.git`
 
+## :camera: Tela de Cadastro de Produto
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/angular-crud-produtos-v2/blob/master/frontend/src/assets/img/screenshot1.png" /></p>
+
+## :camera: Tela de Atualização de Produto
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/angular-crud-produtos-v2/blob/master/frontend/src/assets/img/screenshot2.png" /></p>
+
+## :camera: Tela de Exclusão de Produto
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/angular-crud-produtos-v2/blob/master/frontend/src/assets/img/screenshot3.png" /></p>
+
+## :camera: Tela com Lista de Produto
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/angular-crud-produtos-v2/blob/master/frontend/src/assets/img/screenshot4.png" /></p>
+
 ## Author
 
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
