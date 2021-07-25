@@ -2,7 +2,8 @@
 
 ## :computer: Projeto
 
-Repositório de uma aplicação web para gerenciamento de registros de produtos utilziando o Framework Angular, código fonte do projeto foi baseado no curso 
+Repositório de uma aplicação web para gerenciamento de registros utilizando operações para leitura, criação, atualização e exclusão de produtos usando o Framework Angular,
+código fonte do projeto foi baseado no curso 
 [Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial).
 
 ## :wrench: Recursos Utilizados
@@ -28,7 +29,7 @@ Repositório de uma aplicação web para gerenciamento de registros de produtos 
 
 <p align="center"> <img src="https://github.com/PauloAlves8039/angular-crud-produtos-v2/blob/master/frontend/src/assets/img/screenshot3.png" /></p>
 
-## :camera: Tela com Lista de Produto
+## :camera: Tela com Lista de Produtos
 
 <p align="center"> <img src="https://github.com/PauloAlves8039/angular-crud-produtos-v2/blob/master/frontend/src/assets/img/screenshot4.png" /></p>
 
